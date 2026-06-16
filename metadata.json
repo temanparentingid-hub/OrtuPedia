@@ -1,0 +1,6 @@
+{
+  "name": "OrtuPedia",
+  "description": "Panduan praktis parenting dari kehamilan hingga anak balita oleh Teman Parenting",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
